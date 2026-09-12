@@ -96,7 +96,7 @@ p{ margin: 0; }
   gap: 24px;
 }
 .brand-mark{ display: flex; align-items: center; }
-.brand-logo{ height: 60px; width: auto; }
+.brand-logo{ height: 80px; width: auto; }
 
 .main-nav{
   display: flex;
