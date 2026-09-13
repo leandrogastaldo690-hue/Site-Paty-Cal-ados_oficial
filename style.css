@@ -389,6 +389,13 @@ p{ margin: 0; }
   display: flex;
   justify-content: center;
 }
+.product-media img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: relative;
+  z-index: 1;
+}
 
 /* ===================== PERKS ===================== */
 .perks{
